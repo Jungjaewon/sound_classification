@@ -1,6 +1,6 @@
 # Sound_Classficiation
 
-This repository have a practice result of sound classification using UrbanSound8K dataset.
+This repository is a practice result of sound classification using UrbanSound8K dataset.
 
 ## Requirements
 * python3.6+
